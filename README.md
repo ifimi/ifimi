@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irene!
 - 👀 I’m interested in anything new I can learn!
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on whatever helps me to improve
 - 📫 How to reach me: @ifimi in GitHub
 
